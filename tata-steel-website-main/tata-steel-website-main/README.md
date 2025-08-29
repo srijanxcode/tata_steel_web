@@ -1,30 +1,29 @@
-# Tata steel website
+# Tata Steel Vendor Management Website  
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Tata_logo.svg" alt="Tata Steel Logo" width="150"/>
+</p>  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/blitzkreigiit-gmailcoms-projects/v0-tata-steel-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/ROV1jkDCEUV)
+## Overview  
+The **Tata Steel Vendor Management Website** is a web-based platform designed to streamline vendor-related workflows.  
+It provides features such as attendance tracking, punch-in/out logging, meal booking, and a central dashboard for efficient vendor operations.  
 
-## Overview
+## 🚀 Features  
+- **Dashboard** – Overview of vendor activities and operations  
+- **Attendance Reports** – Generate and view attendance logs  
+- **Punch In / Punch Out** – Track vendor working hours in real time  
+- **Meal Booking** – Digital system for meal management  
+- **Responsive UI** – Optimized for both desktop and mobile users  
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🌐 Live Deployment  
+👉 [Tata Steel Vendor Management Website](https://tatasteelvendormanagement.vercel.app/)  
 
-## Deployment
+## 🛠️ Tech Stack  
+- **Framework**: [Next.js 13+ (App Router)](https://nextjs.org/) with TypeScript  
+- **Frontend**: React + TailwindCSS  
+- **Styling**: TailwindCSS + Custom `globals.css`  
+- **Routing**: App Router (`layout.tsx`, `page.tsx`, modular routes)  
+- **State Management**: React hooks / Context API (if required)  
+- **Deployment**: Cloud hosting (production-ready build)  
 
-Your project is live at:
-
-**[https://vercel.com/blitzkreigiit-gmailcoms-projects/v0-tata-steel-website](https://vercel.com/blitzkreigiit-gmailcoms-projects/v0-tata-steel-website)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/ROV1jkDCEUV](https://v0.app/chat/projects/ROV1jkDCEUV)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 📂 Project Structure  
