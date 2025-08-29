@@ -1,8 +1,9 @@
 # Tata Steel Vendor Management Website  
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Tata_Steel_logo.svg/2560px-Tata_Steel_logo.svg.png" alt="Tata Steel Logo" width="250"/>
-</p>  
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAACWCAYAAAD+..." alt="Tata Steel Logo" width="250"/>
+</p>
+
 
 ## Overview  
 The **Tata Steel Vendor Management Website** is a web-based platform designed to streamline vendor-related workflows.  
