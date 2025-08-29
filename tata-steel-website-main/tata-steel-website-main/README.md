@@ -1,8 +1,6 @@
 # Tata Steel Vendor Management Website  
 
-<p align="center">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAACWCAYAAAD+..." alt="Tata Steel Logo" width="250"/>
-</p>
+
 
 
 ## Overview  
