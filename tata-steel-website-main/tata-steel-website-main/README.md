@@ -1,7 +1,7 @@
 # Tata Steel Vendor Management Website  
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Tata_logo.svg" alt="Tata Steel Logo" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Tata_Steel_logo.svg/2560px-Tata_Steel_logo.svg.png" alt="Tata Steel Logo" width="250"/>
 </p>  
 
 ## Overview  
@@ -27,3 +27,18 @@ It provides features such as attendance tracking, punch-in/out logging, meal boo
 - **Deployment**: Cloud hosting (production-ready build)  
 
 ## 📂 Project Structure  
+├── attendance-report/ # Attendance reporting module
+├── dashboard/ # Vendor dashboard
+├── meal-booking/ # Meal booking system
+├── punch-in/ # Punch-in logs
+├── punch-out/ # Punch-out logs
+├── globals.css # Global styles
+├── layout.tsx # App layout (Next.js app router)
+└── page.tsx # Entry page
+
+## ⚙️ Getting Started  
+
+Clone the repository:  
+```bash
+git clone https://github.com/your-username/tata-steel-vendor-management.git
+cd tata-steel-vendor-management
